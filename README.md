@@ -1,0 +1,1 @@
+Animais fantásticos é um site feito em javascript puro no curso de Javascript ES6+ da Origamid. Ensinado muitas coisas de javascript, desde o básico até o mais avançado, passando por manipulações do DOM, requisições via fetch API e utiliza todas as novidades das novas versões de JavaScript, como arrow functions, promises e mais.
